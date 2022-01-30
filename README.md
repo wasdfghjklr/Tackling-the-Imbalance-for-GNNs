@@ -1,4 +1,4 @@
-# Tackling-the-Longtail-for-GNNs
+# Tackling-the-Imbalance-for-GNNs
 The 'Inductive-' files are for experiments on inductive settings. The 'Transductive-' files are for experiments on transductive settings. 
 
 The commands are as follows:
